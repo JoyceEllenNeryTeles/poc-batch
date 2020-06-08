@@ -1,0 +1,7 @@
+com\techprimers\springbatchexemple\batch\DBWriter.class
+com\techprimers\springbatchexemple\model\User.class
+com\techprimers\springbatchexemple\repository\UserRepository.class
+com\techprimers\springbatchexemple\batch\Processor.class
+com\techprimers\springbatchexemple\config\SpringBatchConfig.class
+com\techprimers\springbatchexemple\controller\LoadController.class
+com\techprimers\springbatchexemple\SpringBatchExampleApplication.class
